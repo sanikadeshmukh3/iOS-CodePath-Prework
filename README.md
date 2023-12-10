@@ -17,10 +17,6 @@ The following **required** functionality is completed:
  
 ## Video Walkthrough
 
-Here is a reminder on how to embed Loom videos on GitHub. Feel free to remove this reminder once you upload your README. 
-
-[Guide]](https://www.youtube.com/watch?v=GA92eKlYio4) .
-
 <div>
     <a href="https://www.loom.com/share/5a30378a78a04ba79a8ad775356f9728"></a>
     <a href="https://www.loom.com/share/5a30378a78a04ba79a8ad775356f9728">
@@ -31,16 +27,15 @@ Here is a reminder on how to embed Loom videos on GitHub. Feel free to remove th
 ## App Brainstorming (Step 4)
 
 List of apps:
-    DoorDash
+    -DoorDash-
     - Browse through nearby restuarants and order what I want
     - Ability to modify orders and pay online
-    Instagram
+    -Instagram-
     - Saving posts to return to later 
     - Posting videos that can be sent to others through direct messaging
-    YouTube
+    -YouTube-
     - Subscribe to specific channels to get notifications when a new video is uploaded
     - Saving videos to watch later
-An App I'd Like to Build:
 One app that I commonly use is for the bus system that my university operates in order to identify when and where busses are arriving as well as what part of the campus they travel to. To make the app more efficient, I would incorporate a sign-in identifier of some sorts to keep a track of how many students need the bus. By putting in a request, more busses can be sent to that particular location and a overload of students can be avoided making the traveling between campuses more hygenic and more enjoyable as well. By incoprating a sign-in identifier, the user would be able to see how many students were on a particular bus and better plan which bus would be the most appropriate to take, depending on the number of students present in the bus at the moment. This would also avoid the crowds as students would be able to identify which busses were full and which busses had room to spare. This would allow for more efficient travel and less stress when it comes to making it to class on time.
 
 ## Notes
